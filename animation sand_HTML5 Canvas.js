@@ -4324,12 +4324,12 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/Image.png?1719947212475", id:"Image"},
-		{src:"images/Image_0.png?1719947212475", id:"Image_0"},
-		{src:"images/proctormoldsand.png?1719947212475", id:"proctormoldsand"},
-		{src:"images/proctormold.png?1719947212475", id:"proctormold"},
-		{src:"images/sandscoop.png?1719947212475", id:"sandscoop"},
-		{src:"images/scale.png?1719947212475", id:"scale"}
+		{src:"https://github.com/evilneighbors/chem.javascripts/blob/main/images/Image.png", id:"Image"},
+		{src:"https://github.com/evilneighbors/chem.javascripts/blob/main/images/Image_0.png", id:"Image_0"},
+		{src:"https://github.com/evilneighbors/chem.javascripts/blob/main/images/proctormoldsand.png", id:"proctormoldsand"},
+		{src:"https://github.com/evilneighbors/chem.javascripts/blob/main/images/proctormold.png", id:"proctormold"},
+		{src:"https://github.com/evilneighbors/chem.javascripts/blob/main/images/sandscoop.png", id:"sandscoop"},
+		{src:"https://github.com/evilneighbors/chem.javascripts/blob/main/images/scale.png", id:"scale"}
 	],
 	preloads: []
 };
