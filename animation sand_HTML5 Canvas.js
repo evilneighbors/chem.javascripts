@@ -4324,12 +4324,12 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"https://github.com/evilneighbors/chem.javascripts/blob/main/images/Image.png?raw=1", id:"Image"},
-		{src:"https://github.com/evilneighbors/chem.javascripts/blob/main/images/Image_0.png?raw=1", id:"Image_0"},
-		{src:"https://github.com/evilneighbors/chem.javascripts/blob/main/images/proctormoldsand.png?raw=1", id:"proctormoldsand"},
-		{src:"https://github.com/evilneighbors/chem.javascripts/blob/main/images/proctormold.png?raw=1", id:"proctormold"},
-		{src:"https://github.com/evilneighbors/chem.javascripts/blob/main/images/sandscoop.png?raw=1", id:"sandscoop"},
-		{src:"https://github.com/evilneighbors/chem.javascripts/blob/main/images/scale.png?raw=1", id:"scale"}
+		{src:"https://img1.wsimg.com/isteam/ip/413130f2-0fd5-4449-b74e-28faab759598/Image.png", id:"Image"},
+		{src:"https://img1.wsimg.com/isteam/ip/413130f2-0fd5-4449-b74e-28faab759598/Image_0.png", id:"Image_0"},
+		{src:"https://img1.wsimg.com/isteam/ip/413130f2-0fd5-4449-b74e-28faab759598/proctormoldsand.png", id:"proctormoldsand"},
+		{src:"https://img1.wsimg.com/isteam/ip/413130f2-0fd5-4449-b74e-28faab759598/proctormold.png", id:"proctormold"},
+		{src:"https://img1.wsimg.com/isteam/ip/413130f2-0fd5-4449-b74e-28faab759598/sandscoop.png", id:"sandscoop"},
+		{src:"https://img1.wsimg.com/isteam/ip/413130f2-0fd5-4449-b74e-28faab759598/scale.png", id:"scale"}
 	],
 	preloads: []
 };
