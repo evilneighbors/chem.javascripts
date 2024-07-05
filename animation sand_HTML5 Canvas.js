@@ -4324,12 +4324,12 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"https://github.com/evilneighbors/chem.javascripts/blob/main/images/Image.png", id:"Image"},
-		{src:"https://github.com/evilneighbors/chem.javascripts/blob/main/images/Image_0.png", id:"Image_0"},
-		{src:"https://github.com/evilneighbors/chem.javascripts/blob/main/images/proctormoldsand.png", id:"proctormoldsand"},
-		{src:"https://github.com/evilneighbors/chem.javascripts/blob/main/images/proctormold.png", id:"proctormold"},
-		{src:"https://github.com/evilneighbors/chem.javascripts/blob/main/images/sandscoop.png", id:"sandscoop"},
-		{src:"https://github.com/evilneighbors/chem.javascripts/blob/main/images/scale.png", id:"scale"}
+		{src:"https://raw.githubusercontent.com/evilneighbors/chem.javascripts/blob/main/images/Image.png", id:"Image"},
+		{src:"https://raw.githubusercontent.com/evilneighbors/chem.javascripts/blob/main/images/Image_0.png", id:"Image_0"},
+		{src:"https://raw.githubusercontent.com/evilneighbors/chem.javascripts/blob/main/images/proctormoldsand.png", id:"proctormoldsand"},
+		{src:"https://raw.githubusercontent.com/evilneighbors/chem.javascripts/blob/main/images/proctormold.png", id:"proctormold"},
+		{src:"https://raw.githubusercontent.com/evilneighbors/chem.javascripts/blob/main/images/sandscoop.png", id:"sandscoop"},
+		{src:"https://raw.githubusercontent.com/evilneighbors/chem.javascripts/blob/main/images/scale.png", id:"scale"}
 	],
 	preloads: []
 };
