@@ -4328,7 +4328,7 @@ lib.properties = {
 		{src:"https://img1.wsimg.com/isteam/ip/413130f2-0fd5-4449-b74e-28faab759598/Image_0.png", id:"Image_0"},
 		{src:"https://img1.wsimg.com/isteam/ip/413130f2-0fd5-4449-b74e-28faab759598/proctormoldsand.png", id:"proctormoldsand"},
 		{src:"https://img1.wsimg.com/isteam/ip/413130f2-0fd5-4449-b74e-28faab759598/proctormold.png", id:"proctormold"},
-		{src:"https://img1.wsimg.com/isteam/ip/413130f2-0fd5-4449-b74e-28faab759598/sandscoop.png", id:"sandscoop"},
+		{src:"https://img1.wsimg.com/isteam/ip/413130f2-0fd5-4449-b74e-28faab759598/sand%20scoop.png", id:"sandscoop"},
 		{src:"https://img1.wsimg.com/isteam/ip/413130f2-0fd5-4449-b74e-28faab759598/scale.png", id:"scale"}
 	],
 	preloads: []
